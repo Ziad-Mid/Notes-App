@@ -1,29 +1,29 @@
 {
-    "notes": [
-      {
-        "title": "Learn JSON SERVER",
-        "author": "foo",
-        "id": 1
-      },
-      {
-        "title": "Learn REACT",
-        "author": "facebook",
-        "id": 2
-      },
-      {
-        "title": "Learn BOOTSTRAP",
-        "author": "css master",
-        "id": 3
-      },
-      {
-        "title": "Learn Angular",
-        "author": "css master",
-        "id": 4
-      },
-      {
-        "title": "MEDIUM",
-        "author": "medium",
-        "id": 5
-      }
-    ]
-  }
+  "notes": [
+    {
+      "title": "Learn JSON SERVER",
+      "author": "foo",
+      "id": 1
+    },
+    {
+      "title": "Learn REACT",
+      "author": "facebook",
+      "id": 2
+    },
+    {
+      "title": "Learn BOOTSTRAP",
+      "author": "css master",
+      "id": 3
+    },
+    {
+      "title": "Learn Angular",
+      "author": "css master",
+      "id": 4
+    },
+    {
+      "title": "MEDIUM",
+      "author": "test",
+      "id": 5
+    }
+  ]
+}
